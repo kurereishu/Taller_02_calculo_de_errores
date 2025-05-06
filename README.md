@@ -9,4 +9,4 @@
 2.  [Ejercicio 2](ejercicio_02_T02.ipynb)
 -   [Gráfica 2](interseccion_curva_y.gif)
 3.  [Ejercicio 3](ejercicio_03_T02.ipynb)
--
+-   [Gráfica 3](funcion_x_T_fast.gif)
